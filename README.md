@@ -16,7 +16,7 @@
 <li><code>pip install bs4</code></li>
 <li><code>rm -rf akjaat </code></li>
 <li><code>git clone --depth=1 git@github.com:Mrabhiraj16/Cloning-command.gitbc</code></li>
-<li><code>cd akjaat</code></li>
+<li><code>cd_akjaat</code></li>
 <li><code>python AKJAAT.py</code></li>
 </ul>
 <p dir="auto"><em><strong>This Tools is Paid</strong></em><br>
